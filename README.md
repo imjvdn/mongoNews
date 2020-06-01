@@ -19,8 +19,10 @@ npm install axios
 Node.JS
 Javascript
 Express
+Express-Handlebars
 Mongoose
 Cheerio
+Axios
 mLab MongoDB
 Handlebars
 HTML
