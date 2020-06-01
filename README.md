@@ -31,7 +31,6 @@ CSS
 ## Prerequisites
 
 Node.js - Download the latest version of Node https://nodejs.org/en/
-Bootstrap - https://getbootstrap.com/
 
 ## License
 
