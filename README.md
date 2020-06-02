@@ -30,10 +30,6 @@ Jquery
 CSS
 ```
 
-## Prerequisites
-
-Node.js - Download the latest version of Node https://nodejs.org/en/
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
