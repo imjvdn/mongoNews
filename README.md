@@ -6,7 +6,7 @@ In this assignment, you'll create a web app that lets users view and leave comme
 
 ```bash
 npm install express
-npm install express-handlebars
+npm install morgan
 npm install mongoose
 npm install cheerio
 npm install axios
@@ -19,12 +19,11 @@ npm install axios
 Node.JS
 Javascript
 Express
-Express-Handlebars
+Morgan
 Mongoose
 Cheerio
 Axios
 mLab MongoDB
-Handlebars
 HTML
 Jquery
 CSS
